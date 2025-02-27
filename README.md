@@ -58,4 +58,3 @@ This repository contains a collection of SQL queries designed for learning and p
 - Ensure the `orders_data` and `returns_data` tables exist before running queries.
 - The `practise.sql` file is structured for incremental learning, starting from basics to advanced SQL concepts.
 
-Happy Learning! 🎯🚀
